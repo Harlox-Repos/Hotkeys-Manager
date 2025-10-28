@@ -7,7 +7,7 @@
 
 > A lightweight, modern Windows application to create and manage global keyboard shortcuts (hotkeys) for launching your favorite applications instantly.
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Harlox-Repos/Hotkeys-Manager&type=Date)](https://star-history.com/#Harlox-Repos/Hotkeys-Manager&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Harlox-Repos/Hotkeys-Manager&type=date&legend=top-left)](https://www.star-history.com/#Harlox-Repos/Hotkeys-Manager&type=date&legend=top-left)
 
 ---
 
