@@ -46,4 +46,4 @@ You need to install **.NET 8.0 Desktop Runtime**:
 
 1. Download from: [.NET 8.0 Download](https://dotnet.microsoft.com/download/dotnet/8.0)
 2. Click on **"x64 Windows Installer"** under **.NET Desktop Runtime 8.0.xx**
-3. Install [Release](https://github.com/Harlox/Hotkeys-Manager/releases) and restart Hotkeys-Manager
+3. Install [Release](https://github.com/Harlox-Repos/Hotkeys-Manager/releases) and restart Hotkeys-Manager
