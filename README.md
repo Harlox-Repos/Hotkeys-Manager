@@ -2,7 +2,7 @@
 
 [![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet)](https://dotnet.microsoft.com/)
 [![Windows](https://img.shields.io/badge/Platform-Windows%2010/11-0078D6?logo=windows)](https://www.microsoft.com/windows)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/Harlox-Repos/Hotkeys-Manager?style=social)](https://github.com/Harlox-Repos/Hotkeys-Manager)
 
 > A lightweight, modern Windows application to create and manage global keyboard shortcuts (hotkeys) for launching your favorite applications instantly.
@@ -19,7 +19,7 @@
 - 🌓 **Auto Theme Detection** - Automatically adapts to Windows Light/Dark mode
 - 🔔 **System Tray Integration** - Runs silently in the background
 - 📝 **Easy Management** - Add, edit, and delete shortcuts with a few clicks
-- 🚀 **Lightweight** - Only ~5 MB, minimal resource usage
+- 🚀 **Lightweight** - Only ~10 MB, minimal resource usage
 - 💾 **Persistent Storage** - Your shortcuts are saved and loaded automatically
 
 ---
@@ -33,6 +33,10 @@
 ### Add/Edit Shortcut Dialog
 
 ![Add Shortcut](Screenshots/add.png)
+
+### Settings Window
+
+![Settings Window](Screenshots/settings.png)
 
 ---
 
